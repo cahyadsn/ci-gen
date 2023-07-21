@@ -1,0 +1,13 @@
+{
+    "name": "cahyadsn/ci-gen",
+    "description": "Codeigniter-3 Gen is a PHP CLI script that allows you to write controllers, models and views faster",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cahya dsn",
+            "email": "cahyadsn@gmail.com"
+        }
+    ],
+    "require": {}
+}
